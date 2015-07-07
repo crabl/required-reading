@@ -1,0 +1,1 @@
+[Domain models using temporal properties (Agreement Dispatcher)](http://martinfowler.com/eaaDev/AgreementDispatcher.html)
